@@ -1,2 +1,2 @@
 # startMobX
-This is my study with MobX in flutter
+This is an initial study project, using MobX in flutter.
